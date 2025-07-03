@@ -10,8 +10,7 @@ namespace Leaver
 	class Leaver
 	{
 	public:
-
+		
 		LEAVER_API std::string leave(std::string name);
 	};
 }
-
